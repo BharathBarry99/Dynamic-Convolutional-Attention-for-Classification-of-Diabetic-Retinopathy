@@ -1,0 +1,2 @@
+# Dynamic-Convolutional-Attention-for-Classification-of-Diabetic-Retinopathy
+This repository utilizes deep learning to diagnose Diabetic Retinopathy (DR). By combining a ResNet50 CNN model trained with DCA and a weighted average ensemble technique, it accurately classifies fundus images. The approach improves DR screening accuracy, benefiting clinicians and patients. Documentation facilitates easy implementation.
